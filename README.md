@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
