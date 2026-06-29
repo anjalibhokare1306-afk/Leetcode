@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
