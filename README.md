@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
+| [0386-lexicographical-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
